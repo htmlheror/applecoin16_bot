@@ -10,5 +10,5 @@ document.getElementById('copyButton').addEventListener('click', function() {
   document.execCommand('copy');
   
  
-  alert('Link copied to clipboard: ' + copyText.value);
+  
 });
